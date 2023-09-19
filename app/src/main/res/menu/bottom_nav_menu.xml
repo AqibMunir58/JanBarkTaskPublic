@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/videoFragment"
+        android:icon="@drawable/ic_video_icon"
+        android:title="Videos"  />
+    <item
+        android:id="@+id/thumbnailFragment"
+        android:icon="@drawable/ic_thumbnail_icon"
+        android:title="Thumbnail" />
+
+</menu>
